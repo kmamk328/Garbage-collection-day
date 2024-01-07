@@ -1,5 +1,5 @@
 """
-kawasaki takatsu  Line Bot
+kawasaki takatsu Line Bot
 """
 
 import os
